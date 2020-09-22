@@ -1,0 +1,42 @@
+[0922/201539.673:ERROR:prune_crash_reports.cc(36)] PruneCrashReportDatabase: Failed to get pending reports
+[0922/203522.060:ERROR:prune_crash_reports.cc(36)] PruneCrashReportDatabase: Failed to get pending reports
+[0922/203834.509:ERROR:prune_crash_reports.cc(36)] PruneCrashReportDatabase: Failed to get pending reports
+[0922/214859.991:ERROR:process_reader_win.cc(127)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0922/214859.993:ERROR:exception_snapshot_win.cc(100)] thread ID 6000 not found in process
+[0922/214900.165:ERROR:process_reader_win.cc(127)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0922/214900.166:ERROR:exception_snapshot_win.cc(100)] thread ID 7336 not found in process
+[0922/214900.326:ERROR:process_reader_win.cc(127)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0922/214900.326:ERROR:exception_snapshot_win.cc(100)] thread ID 9012 not found in process
+[0922/214900.731:ERROR:process_reader_win.cc(127)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0922/214900.731:ERROR:exception_snapshot_win.cc(100)] thread ID 15280 not found in process
+[0922/214900.868:ERROR:process_reader_win.cc(127)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0922/214900.868:ERROR:exception_snapshot_win.cc(100)] thread ID 13900 not found in process
+[0922/214901.021:ERROR:process_reader_win.cc(127)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0922/214901.021:ERROR:exception_snapshot_win.cc(100)] thread ID 11300 not found in process
+[0922/214901.373:ERROR:process_reader_win.cc(127)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0922/214901.374:ERROR:exception_snapshot_win.cc(100)] thread ID 3380 not found in process
+[0922/214901.494:ERROR:process_reader_win.cc(127)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0922/214901.494:ERROR:exception_snapshot_win.cc(100)] thread ID 9148 not found in process
+[0922/214901.641:ERROR:process_reader_win.cc(127)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0922/214901.641:ERROR:exception_snapshot_win.cc(100)] thread ID 13344 not found in process
+[0922/223600.777:ERROR:process_reader_win.cc(127)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0922/223600.777:ERROR:process_reader_win.cc(127)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0922/223600.778:ERROR:exception_snapshot_win.cc(100)] thread ID 428 not found in process
+[0922/223600.778:ERROR:exception_snapshot_win.cc(100)] thread ID 2192 not found in process
+[0922/223600.777:ERROR:process_reader_win.cc(127)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0922/223600.779:ERROR:exception_snapshot_win.cc(100)] thread ID 8008 not found in process
+[0922/223600.785:ERROR:file_io_win.cc(162)] CreateFile C:\Users\Sanchit\AppData\Local\Temp\scoped_dir12616_2138600147\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[0922/223600.786:ERROR:file_io_win.cc(162)] CreateFile C:\Users\Sanchit\AppData\Local\Temp\scoped_dir12616_2138600147\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[0922/223600.785:ERROR:file_io_win.cc(162)] CreateFile C:\Users\Sanchit\AppData\Local\Temp\scoped_dir8092_615886096\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[0922/223600.786:ERROR:file_io_win.cc(162)] CreateFile C:\Users\Sanchit\AppData\Local\Temp\scoped_dir12616_2138600147\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[0922/223600.785:ERROR:file_io_win.cc(162)] CreateFile C:\Users\Sanchit\AppData\Local\Temp\scoped_dir740_517714299\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[0922/223600.786:ERROR:file_io_win.cc(162)] CreateFile C:\Users\Sanchit\AppData\Local\Temp\scoped_dir8092_615886096\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[0922/223600.786:ERROR:file_io_win.cc(162)] CreateFile C:\Users\Sanchit\AppData\Local\Temp\scoped_dir740_517714299\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[0922/223600.786:ERROR:file_io_win.cc(162)] CreateFile C:\Users\Sanchit\AppData\Local\Temp\scoped_dir8092_615886096\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[0922/223600.786:ERROR:file_io_win.cc(162)] CreateFile C:\Users\Sanchit\AppData\Local\Temp\scoped_dir740_517714299\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[0922/223600.786:ERROR:file_io_win.cc(171)] CreateFile C:\Users\Sanchit\AppData\Local\Temp\scoped_dir12616_2138600147\Crashpad\reports\d79422c2-c7ca-426a-b700-fdbfd2b9cda3.dmp: The system cannot find the path specified. (0x3)
+[0922/223600.786:ERROR:crash_report_exception_handler.cc(120)] PrepareNewCrashReport failed
+[0922/223600.786:ERROR:file_io_win.cc(171)] CreateFile C:\Users\Sanchit\AppData\Local\Temp\scoped_dir8092_615886096\Crashpad\reports\8b728fc9-fb62-469e-a47b-451fdfa1fcaa.dmp: The system cannot find the path specified. (0x3)
+[0922/223600.786:ERROR:file_io_win.cc(171)] CreateFile C:\Users\Sanchit\AppData\Local\Temp\scoped_dir740_517714299\Crashpad\reports\b4846d89-41d8-4ead-b553-b37a3c11aa35.dmp: The system cannot find the path specified. (0x3)
+[0922/223600.786:ERROR:crash_report_exception_handler.cc(120)] PrepareNewCrashReport failed
+[0922/223600.786:ERROR:crash_report_exception_handler.cc(120)] PrepareNewCrashReport failed
